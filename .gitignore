@@ -1,6 +1,7 @@
 *
 
 !.gitignore
+
 !.config/
 !.config/bspwm/
 !.config/bspwm/bspwmrc
@@ -11,3 +12,9 @@
 !.config/polybar/config.ini
 !.config/sxhkd/
 !.config/sxhkd/sxhkdrc
+!.fonts.conf
+!.gnupg/
+!.gnupg/dirmngr.conf
+
+!.config/environment.d/
+!.config/environment.d/*
