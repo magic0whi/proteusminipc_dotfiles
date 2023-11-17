@@ -1,0 +1,13 @@
+*
+
+!.gitignore
+!.config/
+!.config/bspwm/
+!.config/bspwm/bspwmrc
+!.config/clight.conf
+!.config/picom/
+!.config/picom/picom.conf
+!.config/polybar/
+!.config/polybar/config.ini
+!.config/sxhkd/
+!.config/sxhkd/sxhkdrc
