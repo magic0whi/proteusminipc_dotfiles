@@ -2,10 +2,13 @@
 
 !.gitignore
 
+!.bashrc
 !.config/
 !.config/bspwm/
 !.config/bspwm/bspwmrc
 !.config/clight.conf
+!.config/mpv/
+!.config/mpv/mpv.conf
 !.config/picom/
 !.config/picom/picom.conf
 !.config/polybar/
@@ -15,6 +18,9 @@
 !.fonts.conf
 !.gnupg/
 !.gnupg/dirmngr.conf
+!.ssh/
+!.ssh/config
+!.zshrc
 
 !.config/environment.d/
 !.config/environment.d/*
