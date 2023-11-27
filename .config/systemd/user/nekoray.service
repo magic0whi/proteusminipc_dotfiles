@@ -1,0 +1,11 @@
+[Unit]
+Description=Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)
+After=gui-session.target
+PartOf=gui-session.target
+
+[Service]
+ExecStart=/usr/bin/nekoray
+
+[Install]
+WantedBy=gui-session.target
+
