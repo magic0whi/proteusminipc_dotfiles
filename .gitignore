@@ -50,6 +50,7 @@
 !.vim/autoload/plug.vim
 !.vim/spell/
 !.vim/spell/en.utf-8.add
+!Pictures/
 !Pictures/kanagawa-inverted-darker.jpg
 
 !.config/environment.d/
