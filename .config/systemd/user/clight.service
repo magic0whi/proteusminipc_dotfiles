@@ -9,4 +9,3 @@ ExecStart=/usr/bin/clight
 
 [Install]
 WantedBy=gui-session.target
-
